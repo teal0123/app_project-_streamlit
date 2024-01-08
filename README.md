@@ -1,4 +1,3 @@
-Certainly! Below is a template for a basic `README.md` file for a GitHub repository hosting a Streamlit app. Customize it according to your project's specific details.
 
 ```markdown
 # Your Streamlit App
