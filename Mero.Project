@@ -1,5 +1,5 @@
 pandas
 streamlit
 seaborn
-import matplotlib.pyplot as plt
+matplotlib.pyplot as plt
 NumPy 
